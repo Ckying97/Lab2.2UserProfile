@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab 2.2 User Profile</string>
+    <string name="id">ID</string>
+    <string name="email">E-mail</string>
+    <string name="edit">Edit</string>
+    <string name="p_id">ID</string>
+    <string name="p_email">E-mail</string>
+    <string name="save">Save</string>
+</resources>
